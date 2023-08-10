@@ -1,0 +1,2 @@
+# pythonAutotestUnsplashAuthorization
+Тест авторизации пользователя
